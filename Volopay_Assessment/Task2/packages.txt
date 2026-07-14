@@ -1,0 +1,6 @@
+# packages.txt — System-level packages for Streamlit Community Cloud
+# Required if using weasyprint for PDF generation on deployment
+# Uncomment if needed:
+# libpango-1.0-0
+# libpangoft2-1.0-0
+# libffi-dev

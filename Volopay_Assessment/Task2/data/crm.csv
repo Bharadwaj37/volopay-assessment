@@ -1,0 +1,16 @@
+customer_id,company,owner,plan,ARR,renewal_date
+C001,Meridian Logistics,Priya Sharma,Enterprise,120000,2025-03-15
+C002,BlueSky Technologies,Arjun Mehta,Growth,48000,2025-05-20
+C003,Falcon Financial Services,Neha Kapoor,Starter,18000,2025-06-30
+C004,Apex Retail Group,Rahul Verma,Enterprise,240000,2025-02-28
+C005,Horizon Healthcare,Priya Sharma,Growth,72000,2025-07-10
+C006,Nexus Manufacturing,Arjun Mehta,Enterprise,180000,2025-04-15
+C007,PeakPerform Sports,Neha Kapoor,Starter,12000,2025-08-20
+C008,Vantage Consulting,Rahul Verma,Growth,60000,2025-09-05
+C009,Crimson Media Group,Priya Sharma,Enterprise,300000,2025-01-31
+C010,Sterling Education,Arjun Mehta,Starter,24000,2025-10-15
+C011,Aurora Pharmaceuticals,Neha Kapoor,Enterprise,210000,2025-03-31
+C012,Titan Auto Parts,Rahul Verma,Growth,54000,2025-11-20
+C013,Orion Shipping,Priya Sharma,Growth,66000,2025-05-15
+C014,Pinnacle Real Estate,Arjun Mehta,Starter,15000,2025-12-10
+C015,Vertex Energy Solutions,Neha Kapoor,Enterprise,156000,2025-04-30
