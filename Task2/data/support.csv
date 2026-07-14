@@ -1,0 +1,21 @@
+customer_id,ticket_id,ticket,priority,status,sentiment,created_date
+C001,TKT-1001,Invoice approval workflow is not triggering notifications,High,Open,Negative,2024-12-15
+C001,TKT-1002,Need bulk export feature for AP reports,Medium,Resolved,Neutral,2024-11-20
+C002,TKT-1003,Integration with Xero is failing on OAuth refresh,High,In Progress,Negative,2024-12-18
+C003,TKT-1004,How do I set up recurring payment schedules?,Low,Resolved,Positive,2024-12-01
+C004,TKT-1005,Duplicate vendor entries in master list,Critical,Open,Negative,2024-12-19
+C004,TKT-1006,Payment approval matrix needs updating,High,In Progress,Neutral,2024-12-10
+C005,TKT-1007,Dashboard loading slowly with large datasets,Medium,Open,Negative,2024-12-17
+C006,TKT-1008,Custom role permissions not saving correctly,High,Resolved,Neutral,2024-11-28
+C006,TKT-1009,Need to whitelist new IP ranges for API access,Low,Resolved,Positive,2024-11-15
+C007,TKT-1010,Cannot download invoice PDFs,Medium,Open,Negative,2024-12-20
+C008,TKT-1011,SSO configuration support for Okta,High,In Progress,Neutral,2024-12-12
+C009,TKT-1012,Batch payment import returning 422 error,Critical,Open,Negative,2024-12-19
+C009,TKT-1013,Audit log not capturing approval timestamps,High,Open,Negative,2024-12-16
+C010,TKT-1014,Request for onboarding session for new team members,Low,Resolved,Positive,2024-12-05
+C011,TKT-1015,Multi-currency rounding discrepancy,High,Open,Negative,2024-12-18
+C012,TKT-1016,Vendor bank detail update workflow,Medium,Resolved,Positive,2024-11-22
+C013,TKT-1017,Can we get a dedicated CSM?,Low,Open,Neutral,2024-12-14
+C014,TKT-1018,Training materials for new hires,Low,Resolved,Positive,2024-12-02
+C015,TKT-1019,API rate limits blocking automated reconciliation,Critical,In Progress,Negative,2024-12-17
+C015,TKT-1020,Feature request: GL code mapping automation,Medium,Open,Neutral,2024-12-11
